@@ -1,6 +1,5 @@
 import numpy as np
 import numpy.linalg as la
-import matplotlib.pyplot as plt
 
 
 def find_theta_linear(X: np.ndarray, y: np.ndarray) -> float:
